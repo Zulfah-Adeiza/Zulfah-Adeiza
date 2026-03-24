@@ -1,34 +1,53 @@
-# Hi, I'm Zulfah Adeiza 👋
+## Hi, I’m Zulfah 👋
 
-## Turning Complexity into Clarity
+I’m a Business Analyst specialising in digital transformation within healthcare.
 
-I turn complexity into clarity so digital health and SaaS teams can launch better solutions, faster, without getting stuck in analysis loops or scope creep.
+🔍 What I focus on:
+- Translating clinical workflows into system requirements
+- Process modelling (As-Is / To-Be)
+- Requirements documentation (BRD, User Stories)
+- Healthcare systems and compliance (PHIPA awareness)
 
-With 4+ years in healthcare IT and regulated SaaS environments, I bring a unique blend of clinical insight and technical execution. I started my career in pharmacy and transitioned into business analysis to solve deeper workflow problems at scale, helping teams align faster, deliver smarter, and eliminate rework.
+📁 Current Project:
+Healthcare Appointment Scheduling System (Internal Initiative)
+
+📌 Tools:
+JIRA | Confluence | Visio | Figma | BPMN
+
+Let’s connect on LinkedIn: www.linkedin.com/in/baprozulphaadeiza
 
 ---
 
 ## Impact Highlights
 
-- Led requirements and UAT for an EMR migration that reduced prescription errors by 60%
-- Coordinated HL7/FHIR integrations across 3+ systems with zero downtime
-- Replaced manual intake with a digital workflow that saved 10+ hours per week per clinician
+-Delivered $1M+ cumulative business impact through cost savings, productivity gains, and revenue initiatives
+
+-Reduced process inefficiencies by up to 35%, improving operational performance
+
+-Increased requirements accuracy by 30%, reducing rework and improving delivery quality
+
+-Cut requirements rework by 25%, accelerating timelines and reducing development effort
+
+-Improved requirements traceability by 35%, reducing post-release defects
 
 ---
 
 ## Certifications
 
-- CBAP
-- CSM
+- Certified Business Analyst Professional (CBAP)- IIBA
+- Certified Scrum Master (CSM)
 - ITIL 4
-- ECBA
+- ECBA- IIBA
 
 ---
 
-## Tools & Technologies
+## Core Skills
 
-Jira | Azure DevOps | Confluence | SQL | Power BI  
-HL7 | FHIR | EMR Systems | API Documentation | UAT | BPMN
+Business Analysis: Requirements Elicitation, Stakeholder Management, Business Process Analysis, User Stories
+Delivery: UAT, Backlog Refinement, Agile and Hybrid Delivery
+Systems: Workflow Optimisation, Digital Transformation, Requirements Traceability
+Tools: Jira, Confluence, MS Visio, Figma, Azure DevOps
+Domain: EMR/EHR, EMMS, HL7/FHIR, Clinical Workflows
 
 ---
 
@@ -37,3 +56,4 @@ HL7 | FHIR | EMR Systems | API Documentation | UAT | BPMN
 Whether it is launching new features, documenting APIs, or gathering end-user insights, I focus on bridging the gap between business needs and build-ready requirements.
 
 If you are building a healthcare or SaaS solution that needs clean requirements, smart workflows, or strong stakeholder alignment, let's connect.
+✉️ zulpha.ade@gmail.com
